@@ -19,8 +19,8 @@
       - `geopy.distance` 라이브러리 활용
       - 스타벅스 매장을 중심으로 **반경 250m(보도 3분 거리)** 기준으로 근처 이디야 매장 판별
 
-<p align="center">
-  <img src="images/criteria.jpg" width=500>
+<p align="left">
+  <img src="images/criteria.jpg" width=800 margin=100>
 </p>
 
 ## 데이터 수집
@@ -41,11 +41,11 @@
 
 - 서울시 전체 분포 시각화
 
-<p align="right">
+<p align="left">
   <img src="images/legend.png" width=150>
 </p>
-<p align="center">
-  <img src="images/distribution.png" width=100%>
+<p align="left">
+  <img src="images/distribution.png" width=800>
 </p>
 
 - **스타벅스 매장 분포 상위 구:**
